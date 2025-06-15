@@ -54,3 +54,4 @@ distancia DECIMAL
 );
 
 select * from transporte;
+Delete ENTREGA1.sql
